@@ -29,4 +29,5 @@ for comparisons for an image).
 
 # Example OCR Output
 
-![alt text](OCR.png "OCR")
+![alt text](Images/OCR.png "OCR")
+![alt text](Images/text_1.png "OCR")
