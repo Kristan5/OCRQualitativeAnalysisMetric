@@ -26,3 +26,7 @@ simply enter:
 Changing image files to run the OCR software upon is simply a matter
 of changing the filepaths in the main function (All four paths
 for comparisons for an image). 
+
+# Example OCR Output
+
+![alt text](OCR.png "OCR")
